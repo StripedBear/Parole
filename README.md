@@ -9,3 +9,5 @@
 ### Installing
 
     git clone https://github.com/StripedBear/Parole.git
+    pip3 install stegano
+    pip3 install customtkinter
